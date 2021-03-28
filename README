@@ -1,0 +1,16 @@
+# Lane Albrecht
+# ltalbrec 25 January 2021
+# CSE 101 PA 3
+
+# Files
+List.c                # Implementation file for List ADT from pa1
+List.h                # Header file of the List ADT from pa1
+Graph.c               # Implementation file for DFS Graph ADT
+Graph.h               # Header file for DFS Graph ADT
+GraphTest.c           # A self-made test client for the functions inside Graph.c
+FindComponents.c      # 
+                      # 
+                      # 
+Makefile              # Provided by Professor, a makefile for above mentioned files
+                      # makes and allows valgrind memory checking of .c files
+README 

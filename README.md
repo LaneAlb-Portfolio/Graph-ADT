@@ -9,7 +9,7 @@
 # CSE 101 PA 3
 
 Files
-List.c             <p>   * Implementation file for List ADT from pa1 <br /> <\p>
+List.c             <p>   * Implementation file for List ADT from pa1 <br /> <p/>
 List.h                * Header file of the List ADT from pa1  <br />
 Graph.c               * Implementation file for DFS Graph ADT  <br />
 Graph.h               * Header file for DFS Graph ADT  <br />

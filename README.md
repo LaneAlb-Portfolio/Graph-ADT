@@ -9,13 +9,13 @@
 # CSE 101 PA 3
 
 Files
-List.c                * Implementation file for List ADT from pa1
-List.h                * Header file of the List ADT from pa1
-Graph.c               * Implementation file for DFS Graph ADT
-Graph.h               * Header file for DFS Graph ADT
-GraphTest.c           * A self-made test client for the functions inside Graph.c
-FindComponents.c      * Use Graph Adt to find the strong compenents of a given
-                      * graph.
-Makefile              * Provided by Professor, a makefile for above mentioned files
-                      * makes and allows valgrind memory checking of .c files
+List.c                * Implementation file for List ADT from pa1 <br />
+List.h                * Header file of the List ADT from pa1  <br />
+Graph.c               * Implementation file for DFS Graph ADT  <br />
+Graph.h               * Header file for DFS Graph ADT  <br />
+GraphTest.c           * A self-made test client for the functions inside Graph.c  <br />
+FindComponents.c      * Use Graph Adt to find the strong compenents of a given  <br />
+                      * graph.  <br />
+Makefile              * Provided by Professor, a makefile for above mentioned files  <br />
+                      * makes and allows valgrind memory checking of .c files  <br />
 README 

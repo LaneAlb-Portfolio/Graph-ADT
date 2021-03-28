@@ -5,8 +5,8 @@
 ### * if you are affliated with UCSC and would like to remove this repo, contact me at lanet.albrecht@gmail.com
 ### * if you are a student don't copy it, these things are checked
 
-# 25 January 2021
-# CSE 101 PA 3
+#### 25 January 2021
+#### CSE 101 PA 3
 
 #Files <br />
 List.c       --        *Implementation file for List ADT from pa1 <br />*

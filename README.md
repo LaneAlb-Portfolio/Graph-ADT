@@ -15,7 +15,7 @@ Graph.c               *Implementation file for DFS Graph ADT  <br />*
 Graph.h               *Header file for DFS Graph ADT  <br />*
 GraphTest.c           *A self-made test client for the functions inside Graph.c  <br />*
 FindComponents.c      *Use Graph Adt to find the strong compenents of a given  <br />*
-                       &lt;p&gt;*graph.  <br />*
+                       &lt;p&gt;*graph.  <br />*&lt;/p&gt;
 Makefile              *Provided by Professor, a makefile for above mentioned files  <br />*
-                       &lt;p&gt;*makes and allows valgrind memory checking of .c files  <br />*
+                       &lt;p&gt;*makes and allows valgrind memory checking of .c files  <br />*&lt;/p&gt;
 README 
